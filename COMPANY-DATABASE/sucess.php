@@ -46,9 +46,9 @@
 <body>
 
 <div class="success-box">
-    <h1>🎉 Submission Successful!</h1>
+    <h1>Submission Successful!</h1>
     <p>Your employee details have been added successfully.</p>
-    <a href="index.php">➕ Add Another Employee</a>
+    <a href="EMPdata.php">➕ Add Another Employee</a>
 </div>
 
 </body>
